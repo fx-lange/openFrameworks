@@ -83,7 +83,7 @@
 		<link>
 			<name>libs</name>
 			<type>2</type>
-			<location>$%7BPARENT-2-PROJECT_LOC%7D</location>
+			<location>$%7BPARENT-2-PROJECT_LOC%7D/libs</location>
 		</link>
 		<link>
 			<name>lib</name>
