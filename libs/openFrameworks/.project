@@ -2,10 +2,6 @@
 <projectDescription>
 	<name>openFrameworks</name>
 	<comment></comment>
-	<projects>
-		<project>addons</project>
-		<project>libs</project>
-	</projects>
 	<buildSpec>
 		<buildCommand>
 			<name>org.eclipse.cdt.managedbuilder.core.genmakebuilder</name>
@@ -80,6 +76,16 @@
 	</natures>
 	<linkedResources>
 		<link>
+			<name>addons</name>
+			<type>2</type>
+			<location>/home/fxlange/oF/openFrameworks/addons</location>
+		</link>
+		<link>
+			<name>libs</name>
+			<type>2</type>
+			<location>/home/fxlange/oF/openFrameworks/libs</location>
+		</link>
+		<link>
 			<name>lib</name>
 			<type>2</type>
 			<locationURI>$%7BPARENT-1-PROJECT_LOC%7D/openFrameworksCompiled/lib</locationURI>
@@ -95,4 +101,24 @@
 			<locationURI>$%7BPARENT-1-PROJECT_LOC%7D/openFrameworksCompiled/project</locationURI>
 		</link>
 	</linkedResources>
+	<filteredResources>
+		<filter>
+			<id>1405340999946</id>
+			<name>addons</name>
+			<type>10</type>
+			<matcher>
+				<id>org.eclipse.ui.ide.multiFilter</id>
+				<arguments>1.0-name-matches-true-false-openFrameworks</arguments>
+			</matcher>
+		</filter>
+		<filter>
+			<id>1405340999946</id>
+			<name>libs</name>
+			<type>10</type>
+			<matcher>
+				<id>org.eclipse.ui.ide.multiFilter</id>
+				<arguments>1.0-name-matches-true-false-openFrameworks</arguments>
+			</matcher>
+		</filter>
+	</filteredResources>
 </projectDescription>
