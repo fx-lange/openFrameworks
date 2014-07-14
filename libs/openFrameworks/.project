@@ -78,12 +78,12 @@
 		<link>
 			<name>addons</name>
 			<type>2</type>
-			<location>/home/fxlange/oF/openFrameworks/addons</location>
+			<location>$%7BPARENT-2-PROJECT_LOC%7D/addons</location>
 		</link>
 		<link>
 			<name>libs</name>
 			<type>2</type>
-			<location>/home/fxlange/oF/openFrameworks/libs</location>
+			<location>$%7BPARENT-2-PROJECT_LOC%7D</location>
 		</link>
 		<link>
 			<name>lib</name>
